@@ -1,13 +1,13 @@
 {
-    "name": "TG-MusicPlayer",
+    "name": "KATIL MUSIC",
     "description": "A Telegram Userbot to play Songs in Voice Chat",
-    "logo": "https://telegra.ph/file/12a12ad933f3f972deb61.jpg",
+    "logo": "https://telegra.ph/file/27e1142d0587a7aa0c60f.jpg",
     "keywords": [
         "Telegram",
         "VCBot",
         "MusicPlayer"
     ],
-    "repository": "https://github.com/Lost-In-Dark/TG-MusicPlayer",
+    "repository": "https://github.com/Katilkunjan/kunjakabot",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
