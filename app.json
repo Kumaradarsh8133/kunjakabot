@@ -7,7 +7,7 @@
         "VCBot",
         "MusicPlayer"
     ],
-    "repository": "https://github.com/Katilkunjan/kunjakabot",
+    "repository": "https://github.com/Kumaradarsh8133/kunjakabot",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
